@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+.first-area{
+    background-color: #6943FF;
+    width: 302px;
+    margin: 20px 30px;
+    padding: 15px 20px;
+    text-align: center;
+}
+#num{
+    border: 2px solid #B295FF;
+    border-radius: 10px;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 50px;
+    display: flex;
+}
+#btn{
+    border: none;
+    border-radius: 5px;
+}
+.second-area{
+    border: 1px solid #1F2937;
+    width: 300px;
+    margin: -20px 30px;/* connect 2 area*/
+    padding: 15px 20px;/* for second area*/
+    background-color: #1F2937;
+}
+.small-area{  
+    border: 1px solid #1F2937;
+    border-radius: 5px;
+    background-color: #273549;
+    width: 300px;
+    height: 50px;    
+    margin-bottom: 5px; /*outside area*/
+    text-align: center;
+}
+.unit{
+    color: #CCC1FF;
+    border: 0px solid black;
+    margin: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.card{
+    color: white;
+    font-size: small;
+    margin: 0px;
+    border: 0px solid black;
+}
